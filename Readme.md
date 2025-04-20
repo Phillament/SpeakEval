@@ -31,8 +31,7 @@ The Speech Analysis Dashboard app provides a comprehensive analysis of speech re
 ### 1️⃣ Clone the Repository
 
 ```commandline
-git clone https://github.com/varshath-akula/SVARAG.git
-cd SVARAG
+git clone https://github.com/Phillament/SpeakEval.git
 ```
 ### 2️⃣ Install FFmpeg (Required for Whisper)
 - **Run the following commands in PowerShell (Windows users):**
@@ -68,6 +67,5 @@ GROQ_API_KEY = your_groq_key
 ```
 ### 6️⃣ Change the Working Directory to `app` and Run the Streamlit App
 ```commandline
-cd app
 streamlit run app.py
 ```
