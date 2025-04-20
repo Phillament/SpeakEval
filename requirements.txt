@@ -1,0 +1,11 @@
+librosa
+openai-whisper 
+torch 
+transformers 
+sentencepiece
+groq
+praat-parselmouth
+streamlit
+seaborn 
+matplotlib
+python-dotenv
